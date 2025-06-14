@@ -1,0 +1,10 @@
+# Install package
+pip install git+https://github.com/daedalusLAB/generate_vrt.git
+
+# Install language models (EN,ES,DE only in the example)
+python -m spacy download en_core_web_trf
+python -m spacy download de_dep_news_trf
+python -m spacy download es_dep_news_trf
+
+# Run it
+generate_vrt -i sample.json -o sample.vrt

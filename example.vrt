@@ -1,0 +1,20 @@
+<corpus id="year2017">
+<text id="t__5c626584_6dfb_11e7_8c64_089e01ba0326" file="2017-07-21_1000_US_MSNBC_Morning_Joe.txt"  language="EN" collection="Daedalus Red Hen" date="2017-07-21_1000" channel="MSNBC" country="US" title="Morning_Joe" year="2017" month="07" day="21" time="1000" >
+<s id="1" reltime="0.29">
+Put	VERB	put	put_VERB	put	P	Put	False	False	ROOT	Xxx	VB	0.0	True	True	Put	VERB	[that, aside, ,, discussed, .]	[]	[that, aside, ,, discussed, .]	0	5		O	VerbForm=Inf	0	29	0	169
+that	PRON	that	that_PRON	that	t	hat	False	False	dobj	xxxx	DT	0.0	True	True	Put	VERB	[]	[]	[]	00		O	Number=Sing|PronType=Dem	0	189	0	269
+aside	ADV	aside	aside_ADV	aside	a	ide	False	False	advmod	xxxx	RB	0.0	True	False	Put	VERB	[]	[]	[]	00		O		0	289	0	609
+,	PUNCT	,	,_PUNCT	,	,	,	False	False	punct	,	,	0.0	False	False	Put	VERB	[]	[]	[]	0	0O	PunctType=Comm	0	289	0	609
+if	SCONJ	if	if_SCONJ	if	i	if	False	False	mark	xx	IN	0.0	True	True	discussed	VERB	[]	[]	[]	0	0		O		0	769	0	87
+they	PRON	they	they_PRON	they	t	hey	False	False	nsubj	xxxx	PRP	0.0	True	True	discussed	VERB	[]	[]	[]	0	0		O	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	91	1	5
+even	ADV	even	even_ADV	even	e	ven	False	False	advmod	xxxx	RB	0.0	True	True	discussed	VERB	[]	[]	[]	0	0		O		1	13	1	37
+have	AUX	have	have_AUX	have	h	ave	False	False	aux	xxxx	VBP	0.0	True	True	discussed	VERB	[]	[]	[]	0	0		O	Mood=Ind|Tense=Pres|VerbForm=Fin	1	45	1	65
+ever	ADV	ever	ever_ADV	ever	e	ver	False	False	advmod	xxxx	RB	0.0	True	True	discussed	VERB	[]	[]	[]	0	0		O		1	73	1	91
+discussed	VERB	discuss	discuss_VERB	discussed	d	sed	False	False	advcl	xxxx	VBN	0.0	True	False	Put	VERB	[if, they, even, have, ever, that, ,, doubt]	[if, they, even, have, ever]	[that, ,, doubt]	5	3		O	Aspect=Perf|Tense=Past|VerbForm=Part	195	2	41
+that	PRON	that	that_PRON	that	t	hat	False	False	dobj	xxxx	DT	0.0	True	True	discussed	VERB	[]	[]	[]	0	0		O	Number=Sing|PronType=Dem	2	451	2	671
+,	PUNCT	,	,_PUNCT	,	,	,	False	False	punct	,	,	0.0	False	False	discussed	VERB	[]	[]	[]	00		O	PunctType=Comm	2	451	2	671
+which	PRON	which	which_PRON	which	w	ich	False	False	dep	xxxx	WDT	0.0	True	True	doubt	VERB	[]	[]	[]	00		O		2	731	2	851
+i	PRON	I	I_PRON	i	i	i	False	False	nsubj	x	PRP	0.0	True	True	doubt	VERB	[]	[]	[]	0	0O	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	951	3	31
+would	AUX	would	would_AUX	would	w	uld	False	False	aux	xxxx	MD	0.0	True	True	doubt	VERB	[]	[]	[]	00		O	VerbForm=Fin	3	51	3	211
+doubt	VERB	doubt	doubt_VERB	doubt	d	ubt	False	False	advcl	xxxx	VB	0.0	True	False	discussed	VERB	[which, i, would, have]	[which, i, would]	[have]	3	1		O	VerbForm=Inf	3	231	3	471
+they	PRON	they	they_PRON	they	t	hey	False	False	nsubj	xxxx	PRP	0.0	True	True	have	VERB	[]	[]	[]	00		O	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	511	3	691

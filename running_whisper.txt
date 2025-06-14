@@ -1,0 +1,2 @@
+whisperx --model large --output_format all --output_dir OUTHPUT_PATH NORMALIZED_AUDIO.MP3
+
