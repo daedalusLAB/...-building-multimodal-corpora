@@ -5,6 +5,15 @@ This paper introduces a workflow for building multimodal corpora, addressing cha
 
 A case study uses the NewsScape 2017 Corpus, a large audiovisual dataset from U.S. news media. This example illustrates the pipeline’s ability to retrieve multimodal results from text-based queries, enabling exploration of linguistic patterns alongside synchronized video content and laying groundwork for extensions into visual data analysis with tools such as OpenPose. By enabling analysis of co-occurring verbal and non-verbal features, this workflow offers a resource for multimodal studies in linguistics, cognitive science, and computational analysis, bridging audio and visual modalities to advance the study of language in its full communicative context.
 
+## Pipeline Overview
+
+Below is the corpus creation pipeline diagram:
+
+![Corpus creation pipeline](https://www.multi-data.eu/wp-content/uploads/2025/06/Corpus_Creation_Pipeline-scaled.jpg)
+
+*Figure: Overview of the corpus creation pipeline.*
+
+
 ## Authors
 - Raúl Sánchez <raul@um.es>, University of Murcia  
 - Rosa Illán Castillo <mariarosario.illan@um.es>, Laboratoire Dynamique du Langage, Lyon  
